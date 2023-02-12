@@ -20,11 +20,10 @@ better.
 
 [Read the "book"](https://adityagudimella.github.io/intcomop/)
 
-
 ## The code
 
 The code for the book is available in the [`code`](https://github.com/AdityaGudimella/CommandLineProgrammingLanguages/tree/main/code)
-directory. Each language has its own directory.  You can also find a link to the code
+directory. Each language has its own directory. You can also find a link to the code
 corresponding to each chapter at the end of each chapter.
 
 Since the code in this book builds on the code from the previous chapter, it is not
