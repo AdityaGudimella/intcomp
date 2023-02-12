@@ -18,7 +18,7 @@ better.
 
 ## The "Book"
 
-[Read the "book"](https://adityagudimella.github.io/intcomop/)
+[Read the "book"](https://adityagudimella.github.io/intcomp/)
 
 ## The code
 
